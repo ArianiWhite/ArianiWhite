@@ -28,10 +28,6 @@ Where Art Meets Code:
 - My background as an artist gives me a unique perspective on design, color theory, and user experience
 – bringing a creative edge to my development projects.
 
-Fun fact:
-I can sketch a portrait better than I can debug a CSS layout (for now!)
-I use coding websites like codex and sololearn to enhance my coding sessions
-
 <!---
 ArianiWhite/ArianiWhite is a special repository because its `README.md` 
 --->
