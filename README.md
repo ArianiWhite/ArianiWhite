@@ -22,12 +22,6 @@ Reach Out
 
 Pronouns:
 - She/her
-
-Where Art Meets Code:
-- When I'm not coding, you'll find me creating art.
-- My background as an artist gives me a unique perspective on design, color theory, and user experience
-– bringing a creative edge to my development projects.
-
 <!---
 ArianiWhite/ArianiWhite is a special repository because its `README.md` 
 --->
