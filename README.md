@@ -1,4 +1,4 @@
-Hi, I’m @ArianiWhite
+Hi, I’m @DanielleWhite5
 
 My Web Developer Journey:
 I'm passionate about creating beautiful, functional web experiences that make people smile. 
